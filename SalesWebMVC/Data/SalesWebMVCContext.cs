@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SalesWebMVC.Models;
 
-namespace SalesWebMVC.Data
+namespace SalesWebMVC.Models
 {
     public class SalesWebMVCContext : DbContext
     {
